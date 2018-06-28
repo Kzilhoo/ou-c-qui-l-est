@@ -1,0 +1,96 @@
+h2 {
+	color: #808080;
+}
+
+body{
+	background-color: #F5F5F5;
+}
+.pagination>li>a, .pagination>li>span { border-radius: 50% !important;margin: 0 5px;}
+.table-nonfluid {
+   width: auto !important;
+}
+
+.centerjumbo{
+text-align:center !important;
+}
+
+.button-couleur{
+	background-color:white;
+}
+.nocols{
+  border-style:hidden !important;
+}
+footer{
+	text-align: center;
+	margin-top:15px;
+	position:static;
+    clear:both;
+}
+
+h1{
+	text-align: left;
+}
+table{
+	margin:left;
+}
+container{
+	background-color:#FEFEFE;
+}
+.progress-container{
+  padding-bottom:15px;
+  padding-top:20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: 390px;
+  margin-left: 390px;
+  background-color:#FEFEFE;
+  border-radius: 5px;	
+  display:flex;
+  
+  flex-direction:column;
+  flex-wrap:wrap;
+}
+
+
+.jumbogrey{
+  background-color:#eee !important;
+  }
+.content-container {
+  padding-bottom:15px;
+  padding-top:20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: 390px;
+  margin-left: 390px;
+  background-color:#FEFEFE;
+  border-radius: 5px;
+}
+.well{
+  background-color:white;
+  }
+
+.jumbotronPadd {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left:30px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  background-color: #eee;
+}
+.login-container{
+  padding-bottom:15px;
+  padding-top:20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: 390px;
+  margin-top: 150px;
+  margin-left: 750px;
+  background-color:#FEFEFE;
+  border-radius: 5px;
+  width : 400px;
+}
+.navbar-padding{
+	padding-right:15px;
+}
+
+
